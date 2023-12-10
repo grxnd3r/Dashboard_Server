@@ -1,0 +1,16 @@
+{
+  "name": "dashboard_server",
+  "version": "1.0.0",
+  "description": "Dashboard to show your computer's usage on a web UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diskusage": "^1.2.0",
+    "os-utils": "^0.0.14"
+  }
+}
